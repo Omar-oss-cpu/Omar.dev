@@ -1,70 +1,30 @@
-### Hi there 👋🏼
+<h1 align="left">Hello 👋🏼</h1>
 
-I'm a Web Developer from Italy 🇮🇹
+###
 
-<style>
-  button {
- appearance: none;
- background-color: #E44D26;
- border: 1px solid rgba(27, 31, 35, 0.15);
- border-radius: 6px;
- box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
- box-sizing: border-box;
- color: #24292E;
- cursor: pointer;
- display: inline-block;
- font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
- font-size: 14px;
- font-weight: 500;
- line-height: 20px;
- list-style: none;
- padding: 6px 16px;
- position: relative;
- transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
- user-select: none;
- -webkit-user-select: none;
- touch-action: manipulation;
- vertical-align: middle;
- white-space: nowrap;
- word-wrap: break-word;
-}
+<p align="left">I'm Omar and I am a Web developer from Italy 🇮🇹</p>
 
-button:hover {
- background-color: #F3F4F6;
- text-decoration: none;
- transition-duration: 0.1s;
-}
+###
 
-button:disabled {
- background-color: #FAFBFC;
- border-color: rgba(27, 31, 35, 0.15);
- color: #959DA5;
- cursor: default;
-}
+<h2 align="left">Programming languages that I know:</h2>
 
-button:active {
- background-color: #EDEFF2;
- box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
- transition: none 0s;
-}
+###
 
-button:focus {
- outline: 1px transparent;
-}
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
-button:before {
- display: none;
-}
+###
 
-button:-webkit-details-marker {
- display: none;
-}
-</style>
-
-### Programming languages that I know
+<h2>
+  How can you contdact me: 
+</h2>
 <p>
-<button>Github Button!</button>
+  Join in my <a>href="https://discord.gg/WwdP3nfeWE">Discord server</a><br>
+  Contact me on <a href"https://t.me/Oma_r71">Telegram</a> 
 </p>
-
-
 
